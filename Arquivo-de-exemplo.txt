@@ -3,3 +3,5 @@ Arquivo para ser alterado e rastreado.
 Adicionando alteração no arquivo.
 
 Alterações na primeira-branch
+
+Alterações na segunda-branch

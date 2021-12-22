@@ -6,9 +6,9 @@ sudo zypper in git-core
 
 #Configurar o Git
 
-git config --global user.name "C1nh0"
+git config --global user.name "usuario"
 
-git config --global user.email "clecio.cade@outlook.com"
+git config --global user.email "usuario@outlook.com"
 
 #Criar a estrutura inicail do repositório git no computador local;
 
